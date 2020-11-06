@@ -8,7 +8,7 @@ module.exports = {
   copyright: '© 2020 | Rivne, Ukraine',
   disqusShortname: 'arrathilar',
   postsPerPage: 20,
-  googleAnalyticsId: '',
+  googleAnalyticsId: ${GA},
   menu: [
     {
       label: 'Blog',
